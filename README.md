@@ -1,8 +1,8 @@
 # Visual-Analytics-Project-on-Airbnb-Listings-in-Cape-Town-South-Africa
 
-This GitHub repository showcases my visual analytics project on Airbnb listings in Cape Town, South Africa, conducted during my master's 
-degree studies at the University of Piraeus. The project involved analyzing three datasets containing comprehensive information about Airbnb
-apartments in the area.
+This GitHub repository showcases my visual analytics project on Airbnb listings in Cape Town, Western Cape, South Africa, conducted during
+my master's degree studies at the University of Piraeus. The project involved analyzing three datasets containing comprehensive information
+about Airbnb apartments in the area. (http://insideairbnb.com/get-the-data/).
 
 In this repository, you will find the cleaned and preprocessed datasets, along with the Python code used for data 
 exploration, feature engineering, and visualization. The code leverages popular libraries such as Pandas, Numpy, Matplotlib, Seaborn, 
